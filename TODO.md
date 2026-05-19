@@ -1,1 +1,0 @@
-- [x] Step 4: Start development server\n- [x] Step 5: Complete (provide access instructions)
